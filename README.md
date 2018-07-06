@@ -1,10 +1,11 @@
-# Simple-CRUD-CI3
-CRUD Sederhana menggunakan CodeIgniter 3 dan Bootstrap
+-------Project Artificial Intellegence------------
 
-<h2>Instalasi</h2>
-1. Clone atau Download repo ini.
-2. Buat database dengan nama "ci3_master", lalu import database yang ada pada folder "db".
-3. Buka halaman awal pada "host/[folder_anda]/home/lihatdata".
+We made this application for Student Scholarship decision with 2 parameters (parent's salary and GPA)
+We used Codeigniter to implement the Fuzzy Logic Algorithm.
 
-<h2>Latihan</h2>
-1. Implementasikan pada Master Project Inventory
+Credit :
+- Galang Rambu Anarqi (ganarqiz@gmail.com)
+- M Wahyu Kuncoro (mwahyuk03@gmail.com)
+- Edo V. Lukito (edovii98@gmail.com)
+ 
+
